@@ -89,6 +89,8 @@ readFilepro(`${__dirname}/dog.txt`)
             {
                 console.log(err.message);
             });
+            
 */
+// the file is working but the dogs pics ar not found
 
 
