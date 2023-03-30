@@ -39,4 +39,7 @@ readFilepro(`${__dirname}/dog.txt`)
             {
                 console.log(err.message);
             });
+////help with it sir iam getting a error that not found : 
+//the file is getting read but i think the problermm is  from line 26
+
 
